@@ -2,10 +2,10 @@
 
 An NLP-powered financial sentiment analysis tool designed to decode Central Bank statements (FED, ECB).
 
-## 📊 Overview
+##  Overview
 This project leverages **FinBERT** to analyze the tone (**Hawkish** vs **Dovish**) of financial texts and detect subtle sentiment shifts.
 
-## 🚀 How to Run
+##  How to Run
 1.  Install dependencies:
     ```bash
     pip install -r requirements.txt
